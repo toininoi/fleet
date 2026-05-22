@@ -10,13 +10,13 @@ The Community Edition is provided as freeware, with upcoming Standard and Enterp
 Open Source project (Apache 2.0) to create and run capabilities using spec-driven integration.
 
  ### [Naftiko Crafter](https://github.com/naftiko/fleet/wiki/Naftiko-Crafter-VS-Code-Extension)
-Free Naftiko extension for Visual Studio Code to help with the editing and linting of Ikanos capabilities.
+Free extension for Visual Studio Code to help with the editing and linting of Ikanos capabilities.
 
 ### [Naftiko Warden](https://github.com/naftiko/fleet/wiki/Naftiko-Warden-custom-Templates-for-Backstage)
-Free Naftiko Warden custom templates for CNCF's Backstage to help with the scaffolding and cataloguing of Ikanos capabilities.
+Free custom templates for CNCF's Backstage to help with the scaffolding and cataloguing of Ikanos capabilities.
 
 ### Naftiko Skipper
-Free Naftiko operator for CNCF's Kubernetes to help with the operations of Ikanos capabilities [coming soon].
+Free operator and Helm chart for CNCF's Kubernetes to help with the operations of Ikanos capabilities [coming soon].
 
 ***
 
